@@ -32,3 +32,9 @@ void input()
         cin >> arr[i];
     }
 }
+
+void insertionsort()
+{ // prosedur insertionsort
+    int temp;
+    int j;
+}
